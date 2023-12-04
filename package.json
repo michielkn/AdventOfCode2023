@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "day-1-1": "tsc && node dist/day-1/Day1-1.js",
-    "day-1-2": "tsc && node dist/day-1/Day1-2.js"
+    "day-1-2": "tsc && node dist/day-1/Day1-2.js",
+    "day-2-1": "tsc && node dist/day-2/Day2-1.js",
+    "day-2-2": "tsc && node dist/day-2/Day2-2.js"
   },
   "keywords": [],
   "author": "michielkn",
